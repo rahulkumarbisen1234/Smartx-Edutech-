@@ -1,0 +1,8 @@
+{
+  "name": "SMARTX - Unified Education Ecosystem",
+  "description": "A comprehensive PWA connecting students, parents, tutors, and coaching institutes with AI-powered personalized learning and discovery.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
